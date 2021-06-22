@@ -1,0 +1,23 @@
+.table {
+  /*font-family: Arial, Helvetica, sans-serif;*/
+  /*border-collapse: collapse;*/
+  width: 100%;
+  border-radius: 5px;
+}
+
+.table td, .table th[data-color="white"] {
+  border: 0px solid #ddd;
+  border-radius: 5px;
+  padding: 8px;
+}
+.table tr:nth-child(even){background-color: #f2f2f2;}
+
+.table tr:hover {background-color: #ddd;}
+
+.table th[data-color="white"] {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  /*background-color: #ef8157;*/
+  /*color: white;*/
+}

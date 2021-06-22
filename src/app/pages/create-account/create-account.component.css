@@ -1,0 +1,10 @@
+.card-title {
+  text-align: center;
+}
+
+.form-select {
+  width: 188px;
+  height: 42px;
+  border: 1px solid #DDDDDD;
+  color: #66615b;
+}
